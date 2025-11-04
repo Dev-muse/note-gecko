@@ -226,12 +226,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🐛 Known Issues
 
-- Local storage key inconsistency: The app uses both `"articles"` and `"getArticles"` keys. This should be standardized.
-- Consider adding error boundaries for better error handling
-
----
 
 ## 🔮 Future Enhancements
 
