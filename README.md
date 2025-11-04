@@ -71,9 +71,10 @@ Experience the power of AI-driven article summarization:
    ```bash
    git clone https://github.com/Dev-muse/note-gecko.git
    cd note-gecko
-```
+   ```
 
 2. **Install dependencies**
+
    ```bash
    npm install
    ```
